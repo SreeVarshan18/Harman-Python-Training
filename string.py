@@ -1,3 +1,4 @@
 a="Sree Varshan "
-b="school"
-print(a+b[1:6])
+print(a.index("a"))
+print(a.index("ree"))
+# bwiuhrg huefehfugyefyigi ueygyfiyg yg
