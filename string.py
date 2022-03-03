@@ -1,4 +1,2 @@
-a="Sree Varshan "
-print(a.index("a"))
-print(a.index("ree"))
-# bwiuhrg huefehfugyefyigi ueygyfiyg yg
+a="sree sree"
+print(a.replace("ree","@"),a.replace(" ","@"))
