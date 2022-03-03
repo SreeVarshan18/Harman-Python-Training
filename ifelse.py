@@ -1,5 +1,5 @@
-a=int(input("enter a number "))
-if a > 20:
-    print("the numbers is greater than 20")
-else:
-    print("the numbers is lesser than 20")
+i=2
+while i <=50:
+    if i % 2 != 0:
+        print(i)
+    i += 1
