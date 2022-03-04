@@ -12,4 +12,6 @@ for i in range(0,n):
         "Publisher Name": pubname,
     }
     list.append(bookdic)
-print(list)
+for i in list:
+    print(i["Book Name"])
+    print(i["Price"])
